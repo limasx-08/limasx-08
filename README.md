@@ -7,3 +7,5 @@ SOU ESTUDANTE DO CURSO ALURA
 ESTOU ME DESENVOLVENDO NO JAVSCRIPT
 
 ENTRE EM CONTATO: 00001116246387sp@al.educacao.sp.gov.br
+
+![.](https://media.tenor.com/l6AOZcsATDgAAAAM/chillbro-cat.gif)
